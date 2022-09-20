@@ -18,3 +18,5 @@
 [URL externa](https://github.com/oscarlucas22)
 
 [Enlace a otro fichero](https://github.com/oscarlucas22/prueba_oscarlucas22/blob/main/README.md)
+
+![Imagen](https://github.com/oscarlucas22/prueba_oscarlucas22/blob/main/github.png)
