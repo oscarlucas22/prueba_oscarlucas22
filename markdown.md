@@ -20,3 +20,8 @@
 [Enlace a otro fichero](https://github.com/oscarlucas22/prueba_oscarlucas22/blob/main/README.md)
 
 ![Imagen](https://github.com/oscarlucas22/prueba_oscarlucas22/blob/main/github.png)
+
+| Columna 1 | Columna 2 |
+| ----------- | ----------- |
+| Fila 1 | Fila 1 |
+| Fila 2 | Fila 2 |
